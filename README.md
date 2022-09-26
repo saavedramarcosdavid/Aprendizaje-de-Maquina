@@ -15,7 +15,7 @@ En este repositorio se presentan los Trabajos Prácticos realizados el curso de 
 <br>
 
 ## Trabajos Prácticos 📋📌⚒️
----
+
 En la siguiente tabla se encuentran los links de acceso a cada una de las resoluciones realizadas en Google Colaboratory (Colab): 
 <br>
 
@@ -110,5 +110,5 @@ Utilización de herramientas de regresión.</td>
 </table>
 
 ## Autor ✒️
----
+
 * Ing. Marcos David Saavedra
