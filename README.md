@@ -17,7 +17,7 @@ En este repositorio se presentan los Trabajos Prácticos realizados el curso de 
 		<th>Clase</th>
 		<th>Nombre</th>
 		<th>Descripción</th>
-		<th>Colab</th>
+		<th>Link Colab</th>
 	</tr>
 	<tr>
 		<td align="center">1</td>
