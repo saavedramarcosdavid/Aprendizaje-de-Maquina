@@ -24,7 +24,7 @@ En la siguiente tabla se encuentran los links de acceso a cada una de las resolu
 		<th>Clase</th>
 		<th>Nombre</th>
 		<th>Descripción</th>
-		<th>Link Colab</th>
+		<th>Link_Colab</th>
 	</tr>
 	<tr>
 		<td align="center">1</td>
