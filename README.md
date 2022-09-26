@@ -10,14 +10,21 @@
 
 <br>
 
-En este repositorio se presentan los Trabajos Prácticos realizados el curso de posgrado "Aprendizaje de Máquina y Reconocimiento de Patrones" del **Departamento de Ingeniería Eléctrica y de Computadoras -** [**DIEC**](https://www.diec.uns.edu.ar/) de la [**Universidad Nacional del SUR**](https://uns.edu.ar/). 
+En este repositorio se presentan los Trabajos Prácticos realizados el curso de posgrado "Aprendizaje de Máquina y Reconocimiento de Patrones" del **Departamento de Ingeniería Eléctrica y de Computadoras -** [**DIEC**](https://www.diec.uns.edu.ar/) de la [**Universidad Nacional del SUR**](https://uns.edu.ar/).
+
+<br>
+
+## Trabajos Prácticos 📋📌⚒️
+---
+En la siguiente tabla se encuentran los links de acceso a cada una de las resoluciones realizadas en Google Colaboratory (Colab): 
+<br>
 
 <table>
 	<tr>
 		<th>Clase</th>
 		<th>Nombre</th>
 		<th>Descripción</th>
-		<th>Colab</th>
+		<th>Link Colab</th>
 	</tr>
 	<tr>
 		<td align="center">1</td>
@@ -101,3 +108,7 @@ Utilización de herramientas de regresión.</td>
 		</td>
 	</tr>
 </table>
+
+## Autor ✒️
+---
+* Ing. Marcos David Saavedra
